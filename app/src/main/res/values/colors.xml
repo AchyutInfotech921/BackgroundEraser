@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
+ <!--   <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="teal_700">#FF018786</color>-->
+
+
+
+   <color name="off_white">#f8f6f7</color>
+
+
+<!--    <color name="colorPrimaryDark">#B20000</color>-->
+    <color name="colorPrimaryDark">#E60F16</color>
+    <!--<color name="colorPrimary">#808000</color>-->
+    <color name="colorPrimary">#E60F16</color>
+    <!--<color name="colorAccent">#777575</color>-->
+    <!--<color name="colorAccent">#006CB5</color>-->
+    <!--<color name="colorAccent">#00C0EF</color>-->
+    <!--<color name="colorAccent">#E60F16</color>-->
+    <color name="colorAccent">#367FA9</color>
+    <color name="clrBlck">#000000</color>
+
+ <color name="grey">#D3D3D3</color>
+ <color name="light_black">#8E8E8E</color>
+    <color name="darker_gray">#dddddd</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#00C0EF</color>
+    <!--<color name="blue_dark">#006CB5</color>-->
+    <!--<color name="blue_dark">#00C0EF</color>-->
+    <color name="blue_dark">#367FA9</color>
+    <color name="red">#DD4B39</color>
+    <color name="green">#00A65A</color>
+ <color name="orange">#F39C12</color>
+    <color name="orange1">#FFBA44</color>
+    <color name="dark_gray">#8B8B8B</color>
+    <color name="dark_gray_">#737162</color>
+    <color name="lyt_gry">#ebeced</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="header_toolbar">@color/colorPrimary</color>
+    <color name="gold">#FFD700</color>
+    <color name="green_updated">#175218</color>
+    <color name="btn_clr">#D68910</color>
+    <color name="btn_clr_diabale">#aaa</color>
+    <color name="btn_curren_active">#FFD700</color>
+
 </resources>
